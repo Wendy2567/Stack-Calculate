@@ -1,0 +1,10 @@
+K:\tuquan\CƠ SỞ LẬP TRÌNH\C#\VS Project-c#\DoAnGiaiThuat2\Stack-Calculate\bin\Debug\DoAnGiaiThuat2.exe.config
+K:\tuquan\CƠ SỞ LẬP TRÌNH\C#\VS Project-c#\DoAnGiaiThuat2\Stack-Calculate\bin\Debug\DoAnGiaiThuat2.exe
+K:\tuquan\CƠ SỞ LẬP TRÌNH\C#\VS Project-c#\DoAnGiaiThuat2\Stack-Calculate\bin\Debug\DoAnGiaiThuat2.pdb
+K:\tuquan\CƠ SỞ LẬP TRÌNH\C#\VS Project-c#\DoAnGiaiThuat2\Stack-Calculate\obj\Debug\Stack-Calculate.csproj.AssemblyReference.cache
+K:\tuquan\CƠ SỞ LẬP TRÌNH\C#\VS Project-c#\DoAnGiaiThuat2\Stack-Calculate\obj\Debug\DoAnGiaiThuat2.Form1.resources
+K:\tuquan\CƠ SỞ LẬP TRÌNH\C#\VS Project-c#\DoAnGiaiThuat2\Stack-Calculate\obj\Debug\DoAnGiaiThuat2.Properties.Resources.resources
+K:\tuquan\CƠ SỞ LẬP TRÌNH\C#\VS Project-c#\DoAnGiaiThuat2\Stack-Calculate\obj\Debug\Stack-Calculate.csproj.GenerateResource.cache
+K:\tuquan\CƠ SỞ LẬP TRÌNH\C#\VS Project-c#\DoAnGiaiThuat2\Stack-Calculate\obj\Debug\Stack-Calculate.csproj.CoreCompileInputs.cache
+K:\tuquan\CƠ SỞ LẬP TRÌNH\C#\VS Project-c#\DoAnGiaiThuat2\Stack-Calculate\obj\Debug\DoAnGiaiThuat2.exe
+K:\tuquan\CƠ SỞ LẬP TRÌNH\C#\VS Project-c#\DoAnGiaiThuat2\Stack-Calculate\obj\Debug\DoAnGiaiThuat2.pdb

@@ -1,0 +1,21 @@
+K:\tuquan\CƠ SỞ LẬP TRÌNH\C#\VS Project-c#\DoAnGiaiThuat2\DoAnGiaiThuat2\bin\Debug\DoAnGiaiThuat2.exe.config
+K:\tuquan\CƠ SỞ LẬP TRÌNH\C#\VS Project-c#\DoAnGiaiThuat2\DoAnGiaiThuat2\bin\Debug\DoAnGiaiThuat2.exe
+K:\tuquan\CƠ SỞ LẬP TRÌNH\C#\VS Project-c#\DoAnGiaiThuat2\DoAnGiaiThuat2\bin\Debug\DoAnGiaiThuat2.pdb
+K:\tuquan\CƠ SỞ LẬP TRÌNH\C#\VS Project-c#\DoAnGiaiThuat2\DoAnGiaiThuat2\obj\Debug\DoAnGiaiThuat2.csproj.AssemblyReference.cache
+K:\tuquan\CƠ SỞ LẬP TRÌNH\C#\VS Project-c#\DoAnGiaiThuat2\DoAnGiaiThuat2\obj\Debug\DoAnGiaiThuat2.Form1.resources
+K:\tuquan\CƠ SỞ LẬP TRÌNH\C#\VS Project-c#\DoAnGiaiThuat2\DoAnGiaiThuat2\obj\Debug\DoAnGiaiThuat2.Properties.Resources.resources
+K:\tuquan\CƠ SỞ LẬP TRÌNH\C#\VS Project-c#\DoAnGiaiThuat2\DoAnGiaiThuat2\obj\Debug\DoAnGiaiThuat2.csproj.GenerateResource.cache
+K:\tuquan\CƠ SỞ LẬP TRÌNH\C#\VS Project-c#\DoAnGiaiThuat2\DoAnGiaiThuat2\obj\Debug\DoAnGiaiThuat2.csproj.CoreCompileInputs.cache
+K:\tuquan\CƠ SỞ LẬP TRÌNH\C#\VS Project-c#\DoAnGiaiThuat2\DoAnGiaiThuat2\obj\Debug\DoAnGiaiThuat2.exe
+K:\tuquan\CƠ SỞ LẬP TRÌNH\C#\VS Project-c#\DoAnGiaiThuat2\DoAnGiaiThuat2\obj\Debug\DoAnGiaiThuat2.pdb
+D:\VisualStudioProjects\DoAnGiaiThuat2\DoAnGiaiThuat2\bin\Debug\DoAnGiaiThuat2.exe.config
+D:\VisualStudioProjects\DoAnGiaiThuat2\DoAnGiaiThuat2\bin\Debug\DoAnGiaiThuat2.exe
+D:\VisualStudioProjects\DoAnGiaiThuat2\DoAnGiaiThuat2\bin\Debug\DoAnGiaiThuat2.pdb
+D:\VisualStudioProjects\DoAnGiaiThuat2\DoAnGiaiThuat2\obj\Debug\DoAnGiaiThuat2.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\DoAnGiaiThuat2\DoAnGiaiThuat2\obj\Debug\DoAnGiaiThuat2.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudioProjects\DoAnGiaiThuat2\DoAnGiaiThuat2\obj\Debug\DoAnGiaiThuat2.Form1.resources
+D:\VisualStudioProjects\DoAnGiaiThuat2\DoAnGiaiThuat2\obj\Debug\DoAnGiaiThuat2.Properties.Resources.resources
+D:\VisualStudioProjects\DoAnGiaiThuat2\DoAnGiaiThuat2\obj\Debug\DoAnGiaiThuat2.csproj.GenerateResource.cache
+D:\VisualStudioProjects\DoAnGiaiThuat2\DoAnGiaiThuat2\obj\Debug\DoAnGiaiThuat2.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\DoAnGiaiThuat2\DoAnGiaiThuat2\obj\Debug\DoAnGiaiThuat2.exe
+D:\VisualStudioProjects\DoAnGiaiThuat2\DoAnGiaiThuat2\obj\Debug\DoAnGiaiThuat2.pdb
